@@ -8,7 +8,7 @@
 git clone git@github.com:dhavalkukreja/web3-blog.git
 ```
 
-2. Install the dependencies
+2. change the directory
 ```shell 
 cd web3-blog
 ```
