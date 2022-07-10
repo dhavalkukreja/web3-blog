@@ -23,7 +23,7 @@ npm install
 ```shell
 npx hardhat node
 ```
-5. Deploy to localhost
+5. Deploy to localhost. Open a new terminal and paste the given command :-
 ```shell
 npx hardhat run scripts/deploy.js --network mumbai
 ```
