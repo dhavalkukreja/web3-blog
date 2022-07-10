@@ -23,7 +23,7 @@ npm install
 ```shell
 npx hardhat node
 ```
-5. Deploy to localhost. Open a new terminal and paste the given command :-
+5. Deploy to localhost. Open a new terminal and paste the given command. Make sure that the new terminal is running in web3-blog folder.
 ```shell
 npx hardhat run scripts/deploy.js --network mumbai
 ```
