@@ -8,7 +8,7 @@
 git clone git@github.com:dhavalkukreja/web3-blog.git
 ```
 
-2. change the directory
+2. Change the directory
 ```shell 
 cd web3-blog
 ```
