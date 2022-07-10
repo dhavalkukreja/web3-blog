@@ -10,20 +10,25 @@ git clone git@github.com:dhavalkukreja/web3-blog.git
 
 2. Install the dependencies
 ```shell 
+cd web3-blog
+```
+
+3. Install the dependencies
+```shell 
 npm install
 ```
 
 
-3. Run the local node
+4. Run the local node
 ```shell
 npx hardhat node
 ```
-4. Deploy to localhost
+5. Deploy to localhost
 ```shell
 npx hardhat run scripts/deploy.js --network mumbai
 ```
 
-5. Start the app
+6. Start the app
 ```shell
 npm start
 ``` 
